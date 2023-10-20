@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GuanZiwen.github.io",
+    "section": "",
+    "text": "Welcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of “Lord of the Rings”, I will be working on the movies’ data content. I have curated some data sources from Kaggle about the movies’ achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\nTo access my GitHub page visit https://guanziwen.github.io/."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

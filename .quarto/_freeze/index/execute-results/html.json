@@ -1,0 +1,14 @@
+{
+  "hash": "aeffabb68c0805467a42a7424e90708d",
+  "result": {
+    "markdown": "---\ntitle: \"GuanZiwen.github.io\"\n---\n\n\nWelcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of \"Lord of the Rings\", I will be working on the movies' data content. I have curated some data sources from Kaggle about the movies' achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\n\nTo access my GitHub page visit <https://guanziwen.github.io/>.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](lotr.png){width=100%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
