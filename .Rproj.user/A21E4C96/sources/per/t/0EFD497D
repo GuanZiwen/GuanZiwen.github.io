@@ -1,9 +1,9 @@
 {
     "id": "0EFD497D",
-    "path": "~/GuanZiwen.github.io/index.qmd",
+    "path": "~/GitHub/GuanZiwen.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1898473868",
+    "hash": "3727630382",
     "contents": "",
     "dirty": false,
     "created": 1697807997174.0,
@@ -17,16 +17,16 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "503:111.19999694824219",
-        "cursorPosition": "13,0",
+        "cursorPosition": "6,30",
         "scrollLine": "0",
         "docOutlineSize": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1697808136,
+    "lastKnownWriteTime": 1697808670,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1697808136916,
+    "last_content_update": 1697808670933,
     "read_only": false,
     "read_only_alternatives": []
 }
